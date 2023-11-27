@@ -1,6 +1,6 @@
 import { Task } from '../types/Task';
 
-const BASE_URL = 'https://back-taskapp.onrender.com/tasks';
+const BASE_URL = 'https://backend-taskapp-ugr4.onrender.com';
 
 export const TaskService = {
   
